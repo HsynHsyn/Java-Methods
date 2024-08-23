@@ -7,14 +7,9 @@ public class GitClass {
         // main method added
     }
 
-    public static void gitMethod(){
-        // gitMethod added
+
+
 
     }
+    // some methods deleted
 
-    public static void gitMethod1(){
-        // gitMethod1 added.
-        // new comment added.
-
-    }
-}
