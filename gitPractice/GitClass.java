@@ -6,4 +6,9 @@ public class GitClass {
 
         // main method added
     }
+
+    public static void gitMethod(){
+        // gitMethod added
+
+    }
 }
