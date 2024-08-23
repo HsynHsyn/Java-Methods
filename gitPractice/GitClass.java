@@ -12,4 +12,4 @@ public class GitClass {
 
     }
     // some methods deleted
-}
+
