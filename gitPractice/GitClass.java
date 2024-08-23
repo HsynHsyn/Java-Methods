@@ -11,4 +11,9 @@ public class GitClass {
         // gitMethod added
 
     }
+
+    public static void gitMethod1(){
+        // gitMethod1 added
+
+    }
 }
