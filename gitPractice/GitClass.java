@@ -14,6 +14,7 @@ public class GitClass {
 
     public static void gitMethod1(){
         // gitMethod1 added.
+        // new comment added.
 
     }
 }
