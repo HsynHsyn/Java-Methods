@@ -17,4 +17,5 @@ public class GitClass {
         // new comment added.
 
     }
+    // some methods deleted
 }
