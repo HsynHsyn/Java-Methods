@@ -13,7 +13,7 @@ public class GitClass {
     }
 
     public static void gitMethod1(){
-        // gitMethod1 added
+        // gitMethod1 added.
 
     }
 }
